@@ -3,6 +3,8 @@
 
 Email Me 👉 ✉️ **vishwakarmakrishna8787@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🎓 B.Tech in Computer Science at BBDNIIT, Lucknow
+- 🛠️ DSA Enthusiast with strong C++ skills
 - 🔭 **I’m currently working on:** FULL STACK WEB DEVELOPMENT 
 - 🌱 **I’m currently learning:** Data Science
 - 💬 **Ask me about:** Collaboration, Tech Support
