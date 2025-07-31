@@ -42,3 +42,8 @@ Email Me 👉 ✉️ **vishwakarmakrishna8787@gmail.com** For Collaboration/Proj
 [![](https://visitcount.itsvg.in/api?id=krishnavis87&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://github.com/krishnavis87/krishnavis87/blob/main/git%20background%20footer.jpg">
+</div>
+<br>
