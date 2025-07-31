@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm KRISHNA VISHWAKARMA
-**A passionate B.TECH- CSE Student || Web Dev & AWS Learner || MERN Stack || Figma || C++ || Python**
+**A passionate B.TECH- CSE Student || Web Dev & AWS Learner || MERN Stack || Python || C++ || Figma || Onshape**
 
 Email Me 👉 ✉️ **vishwakarmakrishna8787@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
